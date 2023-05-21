@@ -1,0 +1,32 @@
+{
+  "name": "quicky-dark-theme",
+  "displayName": "Quicky Dark Theme",
+  "description": "Here is the VS Code theme that match our color palette. Just a dark color theme for you all.",
+  "version": "1.0.0",
+  "publisher": "Quicky",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "quicky",
+    "quicky theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Quicky Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Quicky Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
