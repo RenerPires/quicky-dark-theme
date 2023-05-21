@@ -1,9 +1,9 @@
 <p align="center">
 
-  ![Quicky Logo](./quicky-light.svg#gh-light-mode-only)
+  ![Quicky Logo](./quicky-light.png#gh-light-mode-only)
 
-  ![Quicky Logo](./quicky-dark.svg#gh-dark-mode-only)
-  
+  ![Quicky Logo](./quicky-dark.png#gh-dark-mode-only)
+
 </p>
 
 # Quicky Dark Theme 🐇
