@@ -6,7 +6,7 @@
   "publisher": "Quicky",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/RenerPires/quicky-dark-theme"
   },
   "engines": {
     "vscode": "^1.78.0"
