@@ -3,7 +3,7 @@
   ![Quicky Logo](./quicky-light.png#gh-light-mode-only)
 
   ![Quicky Logo](./quicky-dark.png#gh-dark-mode-only)
-
+  
 </p>
 
 # Quicky Dark Theme 🐇
